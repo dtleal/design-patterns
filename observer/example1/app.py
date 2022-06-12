@@ -1,5 +1,5 @@
 from concrete_subject import ConcreteSubject
-from concrete_observers import ConcreteObserverA, ConcreteObserverB
+from concrete_observer import ConcreteObserverA, ConcreteObserverB
 
 if __name__ == "__main__":
     # The client code
