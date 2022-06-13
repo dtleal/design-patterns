@@ -1,6 +1,6 @@
 """
 Basic video exporting example
-A reffer from https://github.com/ArjanCodes/2021-factory-pattern
+A refferal from https://github.com/ArjanCodes/2021-factory-pattern
 """
 
 import pathlib
