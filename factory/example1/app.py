@@ -1,6 +1,10 @@
 """
-Basic video exporting example
-A refferal from https://github.com/ArjanCodes/2021-factory-pattern
+    **********************************************************************************
+    NOTE: please, see and execute bad_code/without_factory.py for better understanding
+    **********************************************************************************
+
+    Basic video exporting example
+    A refferal from https://github.com/ArjanCodes/2021-factory-pattern
 """
 import pathlib
 from factory import ExporterFactory
