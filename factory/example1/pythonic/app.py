@@ -1,5 +1,5 @@
 """
-Basic video exporting example
+A refferal from https://github.com/ArjanCodes/2021-factory-pattern
 """
 
 import pathlib
@@ -121,6 +121,7 @@ def do_export(exporter: MediaExporter) -> None:
     exporter.audio.do_export(folder)
 
 if __name__ == "__main__":
+
     # create the factory
     factory = read_factory()
 
